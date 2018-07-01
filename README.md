@@ -1,2 +1,12 @@
 # formik-example
-example for picker, input, multiple files, ...etc interactions
+
+### Web, Native
+* Lerna
+* sharing Formik
+* React, React Native
+* Antd Mobile
+
+### Interactions
+* Input Fields
+* Multiple Files
+* Picker ( Date Picker, Select... )
